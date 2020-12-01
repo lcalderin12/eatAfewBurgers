@@ -1,0 +1,77 @@
+
+  body {
+    background-image: url('https://foodieswiki.com/wp-content/uploads/2019/04/can-you-eat-burger-for-breakfast.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    font-family: 'Crimson Text', serif;
+}
+
+html, body, .container {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Georgia, serif;    
+    color: rgb(0, 255, 157);
+}
+h1 {
+    font-size: 2.5em;
+}
+h3 { 
+    font-size: 1.5em;
+}
+
+
+.semi-opaque {
+    background-color: rgba(54, 54, 54, 0.644);
+    min-height: 100%;
+    height: 100%;
+}
+
+.burger {
+    background-color: #fff;
+    padding: 15px;
+    margin: 0 auto 10px auto;
+    
+}
+.burger {
+    background-color: rgba(242, 247, 247, 0.644);
+}
+
+.burger, form, .eaten {
+    border-radius: 10px;
+    box-shadow: 4px 6px rgba(0, 0, 0, 0.493);
+    font-size: 1.5em;
+
+}
+
+.eaten {
+    color: rgb(172, 172, 172);
+    background-color: #fff;
+    padding: 15px;
+    margin: 0 auto 10px auto;
+    background-color: rgba(54, 54, 54, 0.644);
+
+}
+
+.btn-burger, .btn {
+    border: 13px ridge #1C6EA4;
+    border-radius: 40px 0px 40px 39px;
+    margin: 20px;
+}
+
+.create-form {
+    -webkit-box-shadow: 5px -30px 15px 5px #000000; 
+    box-shadow: 5px -30px 15px 5px #000000;
+    color: rgb(0, 255, 157);
+}
+
+
+
+.form-control {
+    margin: 20px;
+ 
+}
+
