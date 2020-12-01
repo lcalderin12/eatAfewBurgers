@@ -41,5 +41,5 @@ Use this app to devour any burger of your preference! In a digital, less-calorie
 [lcalderin12 Luis Calderin](https://github.com/lcalderin12)
 
 ## Repositories
-- [Heroku Deployed Link](https://recipes-tracker-hanzee.herokuapp.com/)
+- [Heroku Deployed Link](https://limitless-temple-94257.herokuapp.com/)
 - [Project Repo](https://github.com/lcalderin12/eatAfewBurgers)
